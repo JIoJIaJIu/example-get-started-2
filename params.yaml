@@ -3,7 +3,7 @@ featurize:
   ngrams: 2
 prepare:
   seed: 20170428
-  split: 0.2
+  split: '0.1'
 train:
   n_estimators: 50
   seed: 20170428
