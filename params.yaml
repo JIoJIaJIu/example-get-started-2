@@ -1,5 +1,5 @@
 featurize:
-  max_features: '1501'
+  max_features: '15011'
   ngrams: 2
 prepare:
   seed: 20170428
